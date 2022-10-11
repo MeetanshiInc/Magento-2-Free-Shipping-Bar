@@ -42,7 +42,7 @@ The module also allows customizing the layout of the bar and display a customize
 
 * Admin can add custom CSS.
 
-For more information, visit [https://meetanshi.com/magento-2-free-shipping-bar.html](https://meetanshi.com/magento-2-free-shipping-bar.html)
+For more information, visit ***[https://meetanshi.com/magento-2-free-shipping-bar.html](https://meetanshi.com/magento-2-free-shipping-bar.html)***
 
 
 
